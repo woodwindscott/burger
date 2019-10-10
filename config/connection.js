@@ -9,14 +9,6 @@ var connection = mysql.createConnection({
   database: "jda9x20ca52drx4z"
 });
 
-// var connection = mysql.createConnection({
-//   host: "localhost",
-//   port: 3306,
-//   user: "root",
-//   password: "Care1self!",
-//   database: "burgers_db"
-// });
-
 // Make connection.
 connection.connect(function(err) {
   if (err) {
