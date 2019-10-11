@@ -1,10 +1,10 @@
 -- New Database and Table creation
 
-DROP DATABASE IF EXISTS burgers_db;
+DROP DATABASE IF EXISTS jda9x20ca52drx4z;
 
-CREATE DATABASE burgers_db;
+CREATE DATABASE jda9x20ca52drx4z;
 
-USE burgers_db;
+USE jda9x20ca52drx4z;
 
 CREATE TABLE burgers
 (
